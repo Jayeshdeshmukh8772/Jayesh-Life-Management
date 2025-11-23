@@ -43,3 +43,7 @@ Thumbs.db
 
 # Typescript build cache
 *.tsbuildinfo
+
+.env
+.env.local
+.env.*
